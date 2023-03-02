@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/onepiece-e-commerce/static/js/main.a7a06378.js",
+    "static/media/logo.jpg": "/onepiece-e-commerce/static/media/logo.7cd1c3961ba7c19cec13.jpg",
+    "index.html": "/onepiece-e-commerce/index.html",
+    "main.a7a06378.js.map": "/onepiece-e-commerce/static/js/main.a7a06378.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a7a06378.js"
+  ]
+}
